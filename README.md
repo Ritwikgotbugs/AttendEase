@@ -30,9 +30,9 @@ A User Trained CNN model which consists of a dataset of photos of students and u
  </table>
 
 ## Collaborators
-- [Ritwik Sharma]
-- [Krrish Chakravarty]
-- [Tamanna Grover]
+- Ritwik Sharma
+- Krrish Chakravarty
+- Tamanna Grover
   
 
  
